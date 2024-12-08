@@ -1,0 +1,109 @@
+.details {
+  display: flex;
+  width: 80%;
+  height: auto;
+  border: 2px solid rgba(134, 134, 134, 0.357);
+  background-color: rgb(245, 245, 245);
+  border-radius: 25px;
+  margin: auto;
+  margin-top: 80px;
+
+  .detailsImg {
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    border-radius: 10px;
+  }
+  .detail-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px;
+  }
+  .detail-descrip {
+    margin: 30px;
+  }
+  .dtail-price {
+    margin: 30px;
+    font-size: 16px;
+  }
+  .detail-btns {
+    display: flex;
+    justify-content: center;
+    width: 160px;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px rgba(66, 66, 66, 0.355);
+    align-items: center;
+  }
+  .addBasketBtn {
+    width: 300px;
+    background-color: #1976D2;
+    color: #fff;
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    &:hover {
+      background-color: #1976D2;
+    }
+  }
+}
+.detail-gallery {
+    flex-wrap: wrap;
+justify-content: space-between;
+  margin-bottom: 10px;
+  margin-right:30px ;
+}
+
+.detail-gallery img {
+  width: 80px;
+  height: 80px;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+
+}
+
+
+@media only screen and (max-width: 768px) {
+  .details {
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+  .img-container {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .detailsImg {
+    margin-right: 60px !important;
+  }
+  .row {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .addBasketBtn {
+    margin-bottom: 10px !important;
+  }
+}
+@media only screen and (max-width: 426px) {
+  .details {
+    width: 90% !important;
+    overflow-x: hidden;
+  }
+  .detail-gallery {
+    padding: 30px !important;
+  }
+
+  .detailsImg {
+    width: 250px !important;
+    height: 250px !important;
+    margin-left: 50px !important;
+  }
+
+  .addBasketBtn {
+    width: 200px !important;
+  }
+}

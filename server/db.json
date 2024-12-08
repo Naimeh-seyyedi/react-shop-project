@@ -1,0 +1,380 @@
+{
+    "کالای دیجیتال": [
+      {
+        "name": "گوشی سامسونگ",
+        "brand": "sumsung",
+        "model" : "Galaxy Z Fold3 5G",
+        "image": "/files/3d545729eb7cdb3f85407805ec160740",
+        "price": "43٬499٬000 تومان",
+        "category":"mobile",
+        "createdAt": 1622901942857,
+        "description" : "گوشی سامسونگ Galaxy Z Fold3 5G حافظه 512 گیگابایت دو سیم کارت",
+        "id": 1
+      },
+      {
+        "name": "گوشی سامسونگ",
+        "brand": "sumsung",
+        "model" : "Galaxy S22 Ultra 5G",
+        "image": "/files/3d545729eb7cdb3f85407805ec160740",
+        "price": "41٬529٬000 تومان",
+        "category":"mobile",
+        "createdAt": 1622901942857,
+        "description" : " گوشی سامسونگ Galaxy S22 Ultra 5G حافظه 512 گیگابایت",
+        "id": 2
+      },
+      {
+        "name": "گوشی سامسونگ",
+        "brand": "sumsung",
+        "model" : "Galaxy S21 Ultra 5G",
+        "image": "/files/3d545729eb7cdb3f85407805ec160740",
+        "price": "35٬390٬000 تومان",
+        "category":"mobile",
+        "createdAt": 1622901942857,
+        "description" : "گوشی سامسونگ Galaxy S21 Ultra 5G حافظه256 گیگابایت",
+        "id": 3
+      },
+      {
+        "name": "گوشی سامسونگ",
+        "brand": "sumsung",
+        "model" : "Galaxy Note 20 Ultra 5G",
+        "image": "/files/3d545729eb7cdb3f85407805ec160740",
+        "price": "28٬290٬000 تومان",
+        "category":"mobile",
+        "createdAt": 1622901942857,
+        "description" : " گوشی سامسونگ Galaxy Note 20 Ultra 5G حافظه 256 گیگابایت رم 12 گیگابایت",
+        "id": 4
+      },
+      {
+        "name": "گوشی سامسونگ",
+        "brand": "sumsung",
+        "model" : "Galaxy S21 FE 5G",
+        "image": "/files/3d545729eb7cdb3f85407805ec160740",
+        "price": "16٬285٬000 تومان",
+        "category":"mobile",
+        "createdAt": 1622901942857,
+        "description" : " گوشی سامسونگ Galaxy S21 FE 5G حافظه 256 گیگابایت رم 8 گیگابایت",
+        "id": 5
+      },
+      {
+        "name": "گوشی سامسونگ",
+        "brand": "sumsung",
+        "model" : "Galaxy A53 5G",
+        "image": "/files/3d545729eb7cdb3f85407805ec160740",
+        "price": "11٬650٬000 تومان",
+        "category":"mobile",
+        "createdAt": 1622901942857,
+        "description" : "گوشی سامسونگ مدل Galaxy A53 5G حافظه 256 گیگابایت رم 8 گیگابایت",
+        "id": 6
+      },
+      {
+        "name": "گوشی سامسونگ",
+        "brand": "sumsung",
+        "model" : "Galaxy A33 5G",
+        "image": "/files/3d545729eb7cdb3f85407805ec160740",
+        "price": " 8٬999٬000 تومان",
+        "category":"mobile",
+        "createdAt": 1622901942857,
+        "description" : "گوشی سامسونگ Galaxy A33 5G حافظه 128 گیگابایت رم 8 گیگابایت",
+        "id": 7
+      },
+      {
+        "name": "گوشی سامسونگ",
+        "brand": "sumsung",
+        "model" : "Galaxy A32 4G",
+        "image": "/files/3d545729eb7cdb3f85407805ec160740",
+        "price": "7٬450٬000 تومان",
+        "category":"mobile",
+        "createdAt": 1622901942857,
+        "description" : "گوشی سامسونگ Galaxy A32 4G حافظه 128 گیگابایت رم 8 گیگابایت",
+        "id": 8
+      },
+      {
+        "name": "گوشی سامسونگ",
+        "brand": "sumsung",
+        "model" : "Galaxy A32 4G",
+        "image": "/files/3d545729eb7cdb3f85407805ec160740",
+        "price": "6٬499٬000 تومان ",
+        "category":"mobile",
+        "createdAt": 1622901942857,
+        "description" : "گوشی سامسونگ مدل Galaxy A32 4G حافظه 128 گیگابایت رم 6 گیگابایت",
+        "id": 8
+      },
+      {
+        "name": "گوشی اپل",
+        "brand": "apple",
+        "model" : "iPhone 13 Pro Max",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "57٬620٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی اپل iPhone 13 Pro Max حافظه 1 ترابایت",
+        "id": 9
+      },
+      {
+        "name": "گوشی اپل",
+        "brand": "apple",
+        "model" : "iPhone 13 Pro Max",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "41٬450٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی اپل iPhone 13 Pro Max حافظه 128 گیگابایت",
+        "id": 10
+      },
+      {
+        "name": "گوشی اپل",
+        "brand": "apple",
+        "model" : "iPhone 13 Pro ",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "46٬000٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی اپل iPhone 13 Pro حافظه 512 گیگابایت",
+        "id": 11
+      },
+      {
+        "name": "گوشی اپل",
+        "brand": "apple",
+        "model" : "iPhone 13",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "32٬660٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی اپل iPhone 13 حافظه 128 گیگابایت",
+        "id": 12
+      },
+      {
+        "name": "گوشی اپل",
+        "brand": "apple",
+        "model" : "iPhone 13 Pro mini",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "28٬920٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی اپل iPhone 13 mini حافظه 128 گیگابایت",
+        "id": 13
+      },
+      {
+        "name": "گوشی شیائومی",
+        "brand": "Xiaomi",
+        "model" : "11T Pro 5G",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "14٬899٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی شیائومی 11T Pro 5G حافظه 256 گیگابایت رم 12 گیگابایت",
+        "id": 14
+      },
+      {
+        "name": "گوشی شیائومی",
+        "brand": "Xiaomi",
+        "model" : "11T 5G",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "9٬499٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی شیائومی 11T 5G حافظه 128 گیگابایت رم 8 گیگابایت",
+        "id": 15
+      },
+      {
+        "name": "گوشی شیائومی",
+        "brand": "Xiaomi",
+        "model" : "11 Lite 5G NE",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "9٬090٬000 تومان ",
+        "createdAt": 1622901942857,
+        "description":"گوشی شیائومی 11 Lite 5G NE حافظه 256 گیگابایت رم 8 گیگابایت",
+        "id": 16
+      },
+      {
+        "name": "گوشی شیائومی",
+        "brand": "Xiaomi",
+        "model" : "Redmi Note 11 Pro",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "8٬099٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی شیائومی Redmi Note 11 Pro حافظه ۱۲۸ گیگابایت رم ۸ گیگابایت",
+        "id": 17
+      },
+      {
+        "name": "گوشی شیائومی",
+        "brand": "Xiaomi",
+        "model" : "Mi 10 Lite 5G",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "7٬999٬000  تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی شیائومی Mi 10 Lite 5G حافظه 256 گیگابایت",
+        "id": 18
+      },
+      {
+        "name": "گوشی هوآوی",
+        "brand": "huawei",
+        "model" : " Nova 9",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "11٬399٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی هوآوی Nova 9 حافظه 128 گیگابایت رم 8 گیگابایت",
+        "id": 19
+      },
+      {
+        "name": "گوشی هوآوی",
+        "brand": "huawei",
+        "model" : " Nova 9",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "11٬399٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی هوآوی Nova 9 حافظه 128 گیگابایت رم 8 گیگابایت",
+        "id": 19
+      },
+      {
+        "name": "گوشی هوآوی",
+        "brand": "huawei",
+        "model" : "Nova 8i",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "7٬149٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"گوشی هوآوی Nova 8i حافظه 128 گیگابایت رم 8 گیگابایت",
+        "id": 20
+      },
+      {
+        "name": "لپ تاپ اپل",
+        "brand": "apple",
+        "model" : "MacBook Pro 2021 M1 Pro-16-1000",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "74٬790٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ اپل MacBook Pro 2021 M1 Pro-16-1000 نمایشگر 16 اینچ MK193",
+        "id": 20
+      },
+      {
+        "name": "لپ تاپ اپل",
+        "brand": "apple",
+        "model" : "MacBook Pro 2021 M1 Pro-16-1000",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "65٬490٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ اپل MacBook Pro 2021 M1 Pro-16-1000 نمایشگر 14 اینچ MKGQ3",
+        "id": 21
+      },
+      {
+        "name": "لپ تاپ اپل",
+        "brand": "apple",
+        "model" : "MacBook Pro 2021 M1 Pro-16-1000",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "65٬590٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ اپل MacBook Pro 2021 M1 Pro-16-512 نمایشگر 16 اینچ MK183",
+        "id": 22
+      },
+      {
+        "name": "لپ تاپ اپل",
+        "brand": "apple",
+        "model" : "MacBook Pro 2020 M1-8-256",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "36٬690٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ اپل MacBook Pro 2020 M1-8-256 نمایشگر 13 اینچ MYDA2",
+        "id": 23
+      },
+      {
+        "name": "لپ تاپ اپل",
+        "brand": "apple",
+        "model" : "MacBook Pro 2020 M1-8-256",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "36٬690٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ اپل MacBook Pro 2020 M1-8-256 نمایشگر 13 اینچ MYDA2",
+        "id": 23
+      },
+      {
+        "name": "لپ تاپ ایسوس",
+        "brand": "asus",
+        "model" : "TUF Gaming F15 FX507ZC i7(12700)-16-1000(SSD)-4(RTX3050)",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "39٬800٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ ایسوس TUF Gaming F15 FX507ZC i7(12700)-16-1000(SSD)-4(RTX3050) نمایشگر 15 اینچ",
+        "id": 24
+      },
+      {
+        "name": "لپ تاپ ایسوس",
+        "brand": "asus",
+        "model" : "R565EA i3(1115G4)-4-512(SSD)",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "13٬540٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ ایسوس R565EA i3(1115G4)-4-512(SSD) نمایشگر 15 اینچ",
+        "id": 25
+      },
+      {
+        "name": "لپ تاپ ایسوس",
+        "brand": "asus",
+        "model" : "R565EA i3(1115G4)-8-512(SSD)",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "14٬290٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ ایسوس R565EA i3(1115G4)-8-512(SSD) نمایشگر 15 اینچ",
+        "id": 26
+      },
+      {
+        "name": "لپ تاپ ایسوس",
+        "brand": "asus",
+        "model" : "R565EP i5(1135G7)-8-512(SSD)-2(MX330)",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "20٬690٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ ایسوس R565EP i5(1135G7)-8-512(SSD)-2(MX330) نمایشگر 15 اینچ",
+        "id": 27
+      },
+      {
+        "name": "لپ تاپ ایسوس",
+        "brand": "asus",
+        "model" : " VivoBook Pro 14 OLED K3400PH i5(11300)-8-512(SSD)-4(GTX1650Max-Q)",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "24٬290٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ ایسوس VivoBook Pro 14 OLED K3400PH i5(11300)-8-512(SSD)-4(GTX1650Max-Q) نمایشگر 14 اینچ",
+        "id": 28
+      },
+      {
+        "name": "لپ تاپ ایسوس",
+        "brand": "asus",
+        "model" : "VivoBook Pro 14X OLED N7400PC i7(11370)-16-1000(SSD)-4(RTX3050)",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "34٬790٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ ایسوس VivoBook Pro 14X OLED N7400PC i7(11370)-16-1000(SSD)-4(RTX3050) نمایشگر 14 اینچ",
+        "id": 29
+      },
+      {
+        "name": "لپ تاپ ایسوس",
+        "brand": "asus",
+        "model" : " R565EA i3(1115G4)-12-512(SSD)",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "14٬690٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ ایسوس R565EA i3(1115G4)-12-512(SSD) نمایشگر 15 اینچ",
+        "id": 30
+      },
+      {
+        "name": "لپ تاپ اچ پی",
+        "brand": "hp",
+        "model" : "255 G7 R3(3200)-8-1000",
+        "image": "/files/65ddd8b1bbce4d8396b62611147fa1d6",
+        "price": "12٬700٬000 تومان",
+        "createdAt": 1622901942857,
+        "description":"لپ تاپ اچ پی 255 G7 R3(3200)-8-1000 نمایشگر 15 اینچ",
+        "id": 31
+      }
+    ],
+    "users": [
+      {
+        "name": "Jamshid Mashayekhi",
+        "username": "admin",
+        "password": "admin",
+        "role": "admin"
+      }
+    ],
+    "protection": {
+      "products.get": false,
+      "orders.post": true,
+      "upload": true,
+      "products": "admin",
+      "orders": "admin",
+      "users": "admin",
+      "protection": "admin"
+    }
+  }

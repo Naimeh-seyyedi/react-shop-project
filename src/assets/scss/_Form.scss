@@ -1,0 +1,97 @@
+$primary-color: #1d3557;
+$error-color: #e63946;
+$bg-color: #f1faee;
+$text-color: #293241;
+$color-white: #fff;
+
+$border-radius: 4px;
+
+.containerform {
+  border-radius: $border-radius;
+
+  h1 {
+    font-size: 2rem;
+    color: $text-color;
+    margin-bottom: 2rem;
+    
+  }
+
+  label,
+  .inputForm {
+    color: $text-color;
+  }
+
+  label {
+    font-size: 1rem;
+  }
+
+  .inputForm,select {
+    border: 2px solid rgba($primary-color, 0.8);
+    border-radius: $border-radius;
+    padding: 0.5rem 1rem;
+    padding-left: 1rem;
+    font-size: 1rem;
+  
+  }
+
+  .form-row {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+    margin: 5px;
+    width: 100%;
+  }
+.form-main{
+  display: flex;
+  flex-direction: row;
+  
+}
+  button {
+    color: $color-white;
+    width: 100%;
+    font-size: 1.4rem;
+    background: $primary-color;
+    border-radius: $border-radius;
+    border: none;
+    cursor: pointer;
+    padding: 0.4rem 1.2rem;
+    margin-top: 0.5rem;
+
+    &:hover {
+      background: rgba($primary-color, 0.8);
+    }
+  }
+
+  .input-error {
+    border-color: $error-color;
+  }
+
+  .error {
+    color: $error-color;
+    font-size: 1rem;
+    margin-top: 0.3rem;
+  }
+
+  .disabled-btn {
+    cursor: not-allowed;
+    background: rgba($primary-color, 0.8);
+  }
+}
+.previewImg{
+  width: 160px !important;
+  border: 2px solid #1d3557c4;
+  height: 120px !important;
+  border-radius: 10px !important;
+}
+.inputImage{
+  display:flex !important;
+  justify-content: space-around !important;
+
+  input{
+    margin-top: 50px !important;
+    margin-right: 30px !important;
+  }
+}
+.errorAdd{
+  color: #f54a59f9 !important;
+}
